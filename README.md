@@ -1,11 +1,3 @@
-<br>
-
-<h1 align=”center”>
-
-Ultrasonic based Blind stick using NodeMCU 
-
-</h1>
-
 
 
 <h2>
