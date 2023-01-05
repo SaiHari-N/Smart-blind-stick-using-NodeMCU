@@ -1,12 +1,4 @@
-
-
-<h2>
-
- Introduction 
-
-</h2>
-
-
+# Introduction
 
 Finding their way on the streets is one of the many difficulties that blind people face in life. There are a lot of vehicles and obstacles on the street that could get in their way and hurt them. So, keeping this issue in mind, we created a Smart blind stick that uses an ultrasonic sensor to look for obstacles in front of it. We make use of a NodeMCU board and an ultrasonic sensor called the HC-SR04. Complete the circuit then, at that point, transfer the given code to the NodeMCU.
 
